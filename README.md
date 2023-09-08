@@ -20,7 +20,7 @@
 ### Welcome to my Cybersecurity Sanctuary!  
 I'm 0x00daemon
 I am an undergraduate student pursuing a degree in cybersecurity. My area of interest are malware development, reverse engineering, scripting, and programming.
-I will posting interesting projects in the future on this github profile
+I will post interesting projects in the future on this github profile
   
 
 <br/>  
