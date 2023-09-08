@@ -10,7 +10,7 @@
 <a href="https://twitter.com/0x00daemon" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/0x00daemon" target="_blank">
+<a href="https://www.youtube.com/@0x00daemon" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
@@ -18,7 +18,9 @@
 
 
 ### Welcome to my Cybersecurity Sanctuary!  
-This is my official github where I will be uploading my projects related to malware development, reverse engineering, and python scripting.  
+I'm 0x00daemon
+I am an undergraduate student pursuing a degree in cybersecurity. My area of interest are malware development, reverse engineering, scripting, and programming.
+I will posting interesting projects in the future on this github profile
   
 
 <br/>  
