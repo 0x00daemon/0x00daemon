@@ -74,10 +74,3 @@ This is my official github where I will be uploading my projects related to malw
 ![Profile views counter](https://komarev.com/ghpvc/?username=0x00daemon&&style=flat-square)  
   
 
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
