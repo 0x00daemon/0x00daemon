@@ -56,9 +56,10 @@ I will post interesting projects in the future on this github profile
 <br/>  
 
 
-## Github Stats
 
-<table>
+
+<!-- <table>
+## Github Stats
   <tr>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=0x00daemon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -67,7 +68,7 @@ I will post interesting projects in the future on this github profile
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x00daemon&hide_border=true&layout=compact" align="left" style="width: 100%" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br/>
 
