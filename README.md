@@ -1,4 +1,4 @@
-## Hey 👋, I'm 0x00daemon!  
+<h1 align="center"> Hey 👋, I'm 0x00daemon! </h1>
   
 
 <a href="https://github.com/0x00daemon" target="_blank">
@@ -17,10 +17,8 @@
 
 
 
-### Welcome to my Cybersecurity Sanctuary!  
-I'm 0x00daemon
-I am an undergraduate student pursuing a degree in cybersecurity. My area of interest are malware development, reverse engineering, scripting, and programming.
-I will post interesting projects in the future on this github profile
+### Welcome to my Github Profile!  
+I'm 0x00daemon, an undergraduate student with a passion for cybersecurity. My areas of expertise include malware development, reverse engineering, scripting, programming, and networking. I'm currently pursuing a degree in cybersecurity and am dedicated to exploring the fascinating world of cyber threats and defenses. Stay tuned for exciting projects on this GitHub profile!
   
 
 <br/>  
