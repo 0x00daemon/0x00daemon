@@ -18,13 +18,14 @@
   </a>
 </div>
 
-### Welcome to my Github Profile!
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=20&duration=2000&pause=2000&color=FFC000&vCenter=true&width=510&height=35&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
+
 I'm Muhammad, an undergraduate student with a passion for cybersecurity. My areas of expertise include malware development, reverse engineering, scripting, programming, and networking. I'm currently pursuing a degree in cybersecurity and am dedicated to exploring the fascinating world of cyber threats and defenses. Stay tuned for exciting projects on this GitHub profile!
 
 <br/>
 
-## Languages and Tools:
-### Frontend and Backend
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=20&duration=2000&pause=2000&color=41B883&vCenter=true&width=510&height=35&lines=Languages+and+Tools:)](https://git.io/typing-svg)
+<h2 align="center" style="color: #00FF00;"> Frontend and Backend </h2>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -50,7 +51,7 @@ I'm Muhammad, an undergraduate student with a passion for cybersecurity. My area
 
 
 
-### Malware Analysis
+<h2 align="center"> Malware Analysis </h2>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -68,7 +69,7 @@ I'm Muhammad, an undergraduate student with a passion for cybersecurity. My area
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visual studio" height="50" /></a>
 </div>
 
-### Networking
+<h2 align="center"> Networking </h2>
 <div align="center">  
 <a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" alt="cisco" height="50" /></a>
 <a href="https://www.gns3.com/" target="_blank"><img style="margin: 10px" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" alt="cisco" height="50" /></a>
