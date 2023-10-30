@@ -23,7 +23,7 @@ I'm Muhammad, an undergraduate student with a passion for cybersecurity. My area
 
 <br/>
 
-## Languages and Tools
+## Languages and Tools:
 ### Frontend and Backend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -63,8 +63,20 @@ I'm Muhammad, an undergraduate student with a passion for cybersecurity. My area
 <a href="https://remnux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/0x00daemon/0x00daemon/assets/126926120/847881c0-634c-400f-a0da-228ce666d696" alt="remnux" height="50" /></a>
 <a href="https://github.com/mandiant/flare-vm" target="_blank"><img style="margin: 10px" src="https://github.com/mandiant/flare-vm/raw/main/Images/flarevm-logo.png" alt="flarevm" height="50" /></a>
 <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="wireshark" height="40" /></a>
-<a href="https://www.ghidra-sre.org/" target="_blank"><img style="margin: 10px" src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="wireshark" height="50" /></a>
+<a href="https://www.ghidra-sre.org/" target="_blank"><img style="margin: 10px" src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" height="50" /></a>
+<a href="https://processhacker.sourceforge.io/downloads.php" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/16999957?s=200&v=4" alt="process hacker" height="50" /></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visual studio" height="50" /></a>
 </div>
+
+### Networking
+<div align="center">  
+<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1200px-Cisco_logo_blue_2016.svg.png" alt="cisco" height="50" /></a>
+<a href="https://www.gns3.com/" target="_blank"><img style="margin: 10px" src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" alt="cisco" height="50" /></a>
+<a href="https://www.pfsense.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/1200px-PfSense_logo.png" height="50" /></a>
+<a href="https://yaml.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/965439/27257445-8791ea14-539c-11e7-8f5a-eec6cdfababa.png" height="50" /></a>
+<a href="https://www.json.org/json-en.html" target="_blank"><img style="margin: 10px" src="https://www.json.org/img/json160.gif" height="50" /></a>
+</div>
+
 
 </td></tr></table>  
 
