@@ -22,7 +22,6 @@
 
 I'm Muhammad, an undergraduate student with a passion for cybersecurity. My areas of expertise include malware development, reverse engineering, scripting, programming, and networking. I'm currently pursuing a degree in cybersecurity and am dedicated to exploring the fascinating world of cyber threats and defenses. Stay tuned for exciting projects on this GitHub profile!
 
-<br/>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=20&duration=2000&pause=2000&color=41B883&vCenter=true&width=510&height=35&lines=Languages+and+Tools:)](https://git.io/typing-svg)
 <h2 align="center" style="color: #00FF00;"> Frontend and Backend </h2>
